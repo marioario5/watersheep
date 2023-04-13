@@ -1,0 +1,18 @@
+{
+
+	"structures": [{
+		"structure": "jeb_:watersheep_church_revamp",
+		"weight": 1
+	}],
+	"placement": {
+
+		"type": "minecraft:random_spread",
+
+
+		"salt": 9238648235,
+
+		"spacing": 34,
+
+		"separation": 20
+	}
+}
